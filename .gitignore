@@ -55,3 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# module specific conf file
+bridgeconf.json
